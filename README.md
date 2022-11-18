@@ -18,7 +18,7 @@
 
 ## Important note
 
-Google searches are unstable as f**k.
+‼ Google searches are unstable as f**k.
 
 ## Requirement
 
