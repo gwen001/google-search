@@ -16,7 +16,7 @@
 
 ---
 
-## Note
+## Important note
 
 Google searches are unstable as f**k.
 
