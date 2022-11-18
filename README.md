@@ -1,6 +1,6 @@
 <h1 align="center">google-search</h1>
 
-<h4 align="center">Performs searches on Google and display the results, as simple as that!</h4>
+<h4 align="center">Performs searches on Google and display the resulting URLs, as simple as that!</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-v3-blue" alt="python badge">
@@ -20,7 +20,7 @@
 
 Google searches are unstable as f**k.
 
-## Requirements
+## Requirement
 
 This script uses the Python module [goop developed by s0md3v](https://github.com/s0md3v/goop) so it requires a Facebook cookie.
 Yeah I know, sounds weird but it works!
