@@ -19,6 +19,9 @@
 ## Note
 
 Google searches are unstable as f**k.
+
+## Requirements
+
 This script uses the Python module [goop developed by s0md3v](https://github.com/s0md3v/goop) so it requires a Facebook cookie.
 Yeah I know, sounds weird but it works!
 
