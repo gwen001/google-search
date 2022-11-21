@@ -49,6 +49,10 @@ go install
 ## Usage
 
 ```
+google-search -c "<facebook cookie>" -s "<google search expression>"
+```
+
+```
 Usage of google-search:
   -c string
     	your facebook cookie
