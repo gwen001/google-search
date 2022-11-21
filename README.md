@@ -27,7 +27,7 @@ This script uses the tricky method developed s0md3v (see [goop by s0md3v](https:
 Yeah I know, sounds weird but it works!
 
 For this purpose I use a Facebook test account and set the cookie in an environment variable:  
-(don't even try that one is fake 😉)  
+(don't even try that one it's fake 😉)  
 ```
 export FACEBOOK_COOKIE="datr=q1V0Y8TgRJBF11vXCB2cl; sb=tEV2Y6okO_z0DRjFJ7jjEsXk; c_user=10409039010190; xs=16%3A1utfaZis3V5yq%3A2%3A16695433%3A-1%3A-1; fr=0rB0KLvdL4UqePy.AXXorCVM%HkrQkP7L4_VLSExs.BjW0.ZW.AA.0.0.BjkW4.AWm2gIsce6; wd=1680x937; dpr=4; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A16686438%2C%22v%22%3A1%7D"
 ```
