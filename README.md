@@ -45,12 +45,6 @@ cd google-search
 go install
 ```
 
----
-
-<img src="https://raw.githubusercontent.com/gwen001/google-search/master/preview.gif" />
-
----
-
 ## Usage
 
 ```
@@ -64,7 +58,11 @@ Usage of google-search:
 
 ---
 
-## Install
+<img src="https://raw.githubusercontent.com/gwen001/google-search/master/preview.gif" />
+
+---
+
+## Install (python version)
 
 ```
 git clone https://github.com/gwen001/google-search
@@ -72,7 +70,7 @@ cd google-search
 pip3 install -r requirements.txt
 ```
 
-## Usage
+## Usage (python version)
 
 ```
 $ python3 google-search.py -t "site:10degres.net"
