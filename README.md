@@ -45,23 +45,15 @@ $ python3 google-search.py -t "site:10degres.net"
 ```
 
 ```
-usage: google-search.py [-h] [-b] [-f FILE] [-t TERM] [-d] [-e ENDPAGE] [-s STARTPAGE] [-c FBCOOKIE] [-o OUTPUT] [-n]
+usage: google-search.py [-h] [-s SEARCH] [-d] [-c FBCOOKIE]
 
 options:
   -h, --help            show this help message and exit
-  -b, --nobanner        disable the banner
-  -f FILE, --file FILE  source file that contains the dorks
-  -t TERM, --term TERM  search term
+  -s SEARCH, --search SEARCH
+                        search term
   -d, --decode          urldecode the results
-  -e ENDPAGE, --endpage ENDPAGE
-                        search end page, default 50
-  -s STARTPAGE, --startpage STARTPAGE
-                        search start page, default 0
   -c FBCOOKIE, --fbcookie FBCOOKIE
                         your facebook cookie
-  -o OUTPUT, --output OUTPUT
-                        output file
-  -n, --numbers-only    don't display the results but how many results where found
 ```
 
 ---
