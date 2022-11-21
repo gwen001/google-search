@@ -133,7 +133,7 @@ func main() {
 
 	if config.search == "" {
 		flag.Usage()
-		fmt.Printf("\nsearch not found\n")
+		fmt.Printf("\nsearch expression not found\n")
 		os.Exit(-1)
 	}
 
