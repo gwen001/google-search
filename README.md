@@ -23,7 +23,7 @@
 
 ## Requirement
 
-This script uses the Python module [goop developed by s0md3v](https://github.com/s0md3v/goop) so it requires a Facebook cookie.
+This script uses the tricky method developed s0md3v (see [goop by s0md3v](https://github.com/s0md3v/goop)) so it requires a Facebook cookie.
 Yeah I know, sounds weird but it works!
 
 For this purpose I use a Facebook test account and set the cookie in an environment variable:
