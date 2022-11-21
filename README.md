@@ -45,6 +45,12 @@ cd google-search
 go install
 ```
 
+---
+
+<img src="https://raw.githubusercontent.com/gwen001/google-search/main/preview.gif" />
+
+---
+
 ## Usage
 
 ```
