@@ -50,7 +50,7 @@ usage: google-search.py [-h] [-s SEARCH] [-d] [-c FBCOOKIE]
 options:
   -h, --help            show this help message and exit
   -s SEARCH, --search SEARCH
-                        search term
+                        search term (required)
   -d, --decode          urldecode the results
   -c FBCOOKIE, --fbcookie FBCOOKIE
                         your facebook cookie

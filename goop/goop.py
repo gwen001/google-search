@@ -42,7 +42,7 @@ def search(query, cookie, page=0, full=False):
     cookie - facebook cookie
     page - search result page number (optional)
     """
-    offset = page * 10
+    offset = page * 100
     filter = 1 if not full else 0
     escaped = url_encode('https://google.com/search?q=%s&num=100&start=%i&filter=%i' % (url_encode(query), offset, filter))
     headers = {

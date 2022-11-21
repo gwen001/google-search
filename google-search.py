@@ -28,7 +28,7 @@ from colored import fg, bg, attr
 
 parser = argparse.ArgumentParser()
 # parser.add_argument( "-r","--raw",help="remove banner", action="store_true" )
-parser.add_argument( "-s","--search",help="search term" )
+parser.add_argument( "-s","--search",help="search term (required)" )
 parser.add_argument( "-d","--decode",help="urldecode the results", action="store_true" )
 parser.add_argument( "-c","--fbcookie",help="your facebook cookie" )
 
